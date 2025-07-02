@@ -200,6 +200,6 @@ for (int k=0;k<t;k++)
 {
 int n;
 cin>>n;
-pattern9a(n);
+pattern8(n);
 }
 }
